@@ -18,7 +18,10 @@ main idea:
     or such stats.
 
     how to gamefy it more? I need to create a feeling that you're involved in
-    some collective process.
+    some collective process. Great idea is to motivate people to join the
+    parties that other have created. For example, you'll get more points for
+    finishing trainig in group. Leaderboard would be with points that you've
+    got in a week.
 
     there will be reports every week and every month with stats that every user
     did. For example: did the user achieved his goals. Or leaderboard based on
