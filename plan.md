@@ -27,6 +27,12 @@ main idea:
     did. For example: did the user achieved his goals. Or leaderboard based on
     trainings and exercises.
 
+    I shouldn't do leaderboard that is based on how good ones physic is. I need
+    to add abstract SEASONAL points instead. And how many trainig sessions sis
+    every user. Every season we get achivements like gold/silver/bronze medal.
+
+    Maybe the workout logging shouldn't be required.
+
     non mvp:
         achievements
 ```
